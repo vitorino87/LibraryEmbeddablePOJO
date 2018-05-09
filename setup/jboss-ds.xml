@@ -5,7 +5,7 @@
     <connection-url>jdbc:mysql://localhost:3306/tiago?zeroDateTimeBehavior=convertToNull</connection-url>
     <driver-class>com.mysql.jdbc.Driver</driver-class>
     <user-name>root</user-name>
-    <password>6sfm3jms</password>
+    <password></password>
     <min-pool-size>5</min-pool-size>
     <max-pool-size>20</max-pool-size>
     <idle-timeout-minutes>5</idle-timeout-minutes>
@@ -15,7 +15,7 @@
     <connection-url>jdbc:postgresql://localhost:5432/postgres</connection-url>
     <driver-class>org.postgresql.Driver</driver-class>
     <user-name>postgres</user-name>
-    <password>6sfm3jms</password>
+    <password></password>
     <min-pool-size>5</min-pool-size>
     <max-pool-size>20</max-pool-size>
     <idle-timeout-minutes>5</idle-timeout-minutes>
@@ -25,7 +25,7 @@
     <connection-url>jdbc:postgresql://localhost:5432/postgres</connection-url>
     <driver-class>org.postgresql.Driver</driver-class>
     <user-name>postgres</user-name>
-    <password>6sfm3jms</password>
+    <password></password>
     <min-pool-size>5</min-pool-size>
     <max-pool-size>20</max-pool-size>
     <idle-timeout-minutes>5</idle-timeout-minutes>
